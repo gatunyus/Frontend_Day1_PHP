@@ -50,6 +50,5 @@ Repository นี้รวบรวมไฟล์แบบฝึกหัด (E
    - เปิด Web Browser เข้าไปที่ `http://localhost/Frontend_Day1_PHP/exercise01.php`
 
 
-```
 
 
