@@ -32,7 +32,7 @@ Repository นี้รวบรวมไฟล์แบบฝึกหัด (E
 
 เนื่องจาก PHP เป็นภาษาฝั่งเซิร์ฟเวอร์ คุณจำเป็นต้องมี Web Server จำลองในเครื่อง (เช่น XAMPP, MAMP หรือใช้ Built-in Server ของ PHP) เพื่อรันไฟล์เหล่านี้:
 
-1. **Clone Repository** ลงมาที่เครื่องคอมพิวเตอร์ของคุณ:
+**Clone Repository** ลงมาที่เครื่องคอมพิวเตอร์ของคุณ:
    ```bash
    git clone [https://github.com/gatunyus/Frontend_Day1_PHP.git](https://github.com/gatunyus/Frontend_Day1_PHP.git)
    ```
